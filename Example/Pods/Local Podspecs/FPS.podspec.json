@@ -1,0 +1,22 @@
+{
+  "name": "FPS",
+  "version": "0.1.0",
+  "summary": "A short description of FPS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/guohongyang1104/FPS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guohongyang1104": "liyh_ios@163.com"
+  },
+  "source": {
+    "git": "https://github.com/guohongyang1104/FPS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FPS/Classes/**/*"
+}
