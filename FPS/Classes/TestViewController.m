@@ -16,6 +16,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    NSString *log = NSStringFromClass(self.class);
+    NSLog(@"==========%@", log);
 }
 
 /*
