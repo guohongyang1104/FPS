@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FPS'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'this is FPS.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here. this is description detail
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'guohongyang1104' => 'liyh_ios@163.com' }
-  s.source           = { :git => 'https://github.com/guohongyang1104/FPS.git', :tag => '0.1.0' }
+  s.source           = { :git => 'https://github.com/guohongyang1104/FPS.git', :tag => '0.2.0' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
