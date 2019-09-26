@@ -20,6 +20,11 @@
     NSLog(@"==========%@", log);
 }
 
+- (void)printLog {
+    NSString *log = NSStringFromClass(self.class);
+    NSLog(@"==========%@", log);
+}
+
 /*
 #pragma mark - Navigation
 
