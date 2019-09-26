@@ -39,12 +39,12 @@
 
 /* Begin PBXFileReference section */
 		03471356C6EF74DFA37E6A9D44D23A8A /* Pods-FPS_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FPS_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		0981FF4466C16793DD2C07035A65003C /* Pods_FPS_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FPS_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		0CE8BCE62D9B08FDF51A19A319F65077 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		0981FF4466C16793DD2C07035A65003C /* Pods_FPS_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FPS_Tests.framework; path = "Pods-FPS_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0CE8BCE62D9B08FDF51A19A319F65077 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		0E76922AF677B3755B5D0EC5E2389DE5 /* Pods-FPS_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FPS_Example-Info.plist"; sourceTree = "<group>"; };
 		1DFDB47EA5A5EA4EDB643B8094272289 /* Pods-FPS_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FPS_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		283B4CA9AE1D0A0810544343A3453131 /* FPS-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FPS-Info.plist"; sourceTree = "<group>"; };
-		2A5C98E892AB9B4DE554F29BBF675B22 /* FPS.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = FPS.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		2A5C98E892AB9B4DE554F29BBF675B22 /* FPS.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = FPS.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		2FDEFCCA5175574979080D14B6347347 /* TestViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TestViewController.h; path = FPS/Classes/TestViewController.h; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		338EC85CFBA3353798BAA48E55ADDD58 /* FPS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FPS.modulemap; sourceTree = "<group>"; };
@@ -54,20 +54,20 @@
 		3C09E29AED8D267B641E10781352A3EB /* Pods-FPS_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FPS_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		55B3FE3E6DACA9461B37E88AE74D18B3 /* TestViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TestViewController.m; path = FPS/Classes/TestViewController.m; sourceTree = "<group>"; };
 		619BC8487ABF112D45A7E87D040E5015 /* Pods-FPS_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FPS_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		6F626A88C241C451FF4FAFAEFD153FBA /* Pods_FPS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FPS_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F626A88C241C451FF4FAFAEFD153FBA /* Pods_FPS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FPS_Example.framework; path = "Pods-FPS_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8595E24738597C46150293FF56BB92E6 /* Pods-FPS_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FPS_Tests-Info.plist"; sourceTree = "<group>"; };
 		88C8143A709597408C4DE95184CA27F7 /* FPS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FPS-dummy.m"; sourceTree = "<group>"; };
 		8DAEC1DCD56E4851474CFDA04E82D418 /* Pods-FPS_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FPS_Tests-umbrella.h"; sourceTree = "<group>"; };
 		9C65F42EB4365F0E70BD508464C45F8A /* Pods-FPS_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-FPS_Tests.modulemap"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A4B93BAAA4F4832E61B182D9E883E3D7 /* Pods-FPS_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FPS_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A668956328514937C0F864518AB6A4B1 /* FPS.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FPS.xcconfig; sourceTree = "<group>"; };
 		B1102E1FC68FD44A4AFAC9BAE1487662 /* Pods-FPS_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FPS_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		B7FFF7DF9AFF19B7ADB96BB440E9B15F /* FPS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FPS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B7FFF7DF9AFF19B7ADB96BB440E9B15F /* FPS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FPS.framework; path = FPS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF04C50C15BDAE67EB2B851F93F0C41D /* FPS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FPS-prefix.pch"; sourceTree = "<group>"; };
 		CF25C7B0E9A110D4E3E799CA79B69652 /* Pods-FPS_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FPS_Example.release.xcconfig"; sourceTree = "<group>"; };
 		D3CFFC5A03E28FE020422991C73281A7 /* Pods-FPS_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FPS_Example-dummy.m"; sourceTree = "<group>"; };
-		DF45E32487FCD73CC7FF61DF69577B4F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		DF45E32487FCD73CC7FF61DF69577B4F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		F097DD605632914548ECDB5E541B2E86 /* FPS-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FPS-umbrella.h"; sourceTree = "<group>"; };
 		FE453E14E01C185BFFF8B00C160FAB3A /* Pods-FPS_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FPS_Example-umbrella.h"; sourceTree = "<group>"; };
 		FEDF7268F28CA311BBEFE3DBFA816E91 /* Pods-FPS_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-FPS_Example.modulemap"; sourceTree = "<group>"; };
@@ -527,7 +527,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
